@@ -1,0 +1,50 @@
+body {
+  background-image: linear-gradient(#343a40, #171b1f);
+  background-color: #343a40;
+}
+
+.articleForm {
+  background-color: #343a40;
+  color: rgb(236, 225, 212);
+}
+
+.articulo {
+  display: flex;
+  background-color: #343a40;
+}
+
+.p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(#171b1f, #3d4349);
+  position: relative;
+  text-align: center;
+  color: rgb(236, 225, 212);
+}
+
+.info {
+  color: rgb(236, 225, 212);
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: rgb(236, 225, 212);
+}
+
+.carousel {
+  overflow: hidden;
+  height: 90vh;
+}
+
+.productos {
+  height: 300px;
+  width: 300px;
+}
+
+.h3 {
+  background-image: linear-gradient(rgb(236, 225, 212), rgb(155, 130, 102));
+}
+
+/*# sourceMappingURL=styles.css.map */

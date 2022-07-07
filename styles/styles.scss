@@ -21,6 +21,17 @@ body{
     color:rgb(236, 225, 212);
    
 }
+@mixin sizes{
+
+}
+.welcome{
+   padding: 15px;
+   margin: 15px;
+   background-image: linear-gradient(#202224,#151617);
+}
+.bePart{
+    background-image: linear-gradient(#0b0d10,#181c20);
+}
 
 .info{
     color:rgb(236, 225, 212);
